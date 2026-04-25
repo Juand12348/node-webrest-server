@@ -6,7 +6,7 @@
 	"outDir": "dist",
 	"module": "CommonJS",
 	"target": "ES2019",
-	"types": ["node"],
+	"types": ["CommonJS"],
 	"strict": true,
 	"esModuleInterop": true,
 	"skipLibCheck": true
